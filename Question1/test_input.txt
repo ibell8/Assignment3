@@ -1,0 +1,12 @@
+
+funtionz {
+    pi = 3.14159265
+    xVar <= 23
+    finalVal = ( pi + xVar )
+    solution = 26.14159265
+    floatingval = 123.34e-5
+    octal = 0123
+    while ( x < 3) {
+        int y = 4
+    }
+}
